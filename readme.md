@@ -8,4 +8,5 @@ Este projeto é um resultado do estudo de Javascript puro baseado no material do
 + localStorage
 + Designer CSS
 
-![](/home/wendellopes/Área de Trabalho/controleFinanceiro.jpg)
+![](https://github.com/wlosantos/controle-financeiro/blob/master/assets/img/controleFinanceiro.jpg)
+
